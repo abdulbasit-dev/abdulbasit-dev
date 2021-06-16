@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
+<!-- ![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg) -->
 
 # Abdulbasit Salah
 
