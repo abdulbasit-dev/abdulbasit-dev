@@ -19,21 +19,16 @@ work in WordPress.
 # My Skill
 
 ## Front-End Skill
+- HTML, CSS, JS
+- React
 
-- ⚛ React
-- 📱 React Native
-- 💻 HTML, CSS, JS
+## Back-End Skill 
+- Php (Laravel)
+- Node.js
+- Express.js
+- MySql
+- Knex
 
-## Front-End Skill
-
-- ⚛ Laravel
-- 📱 Php
-- 💻 Node.js
-- ⚛ Express.js
-- 📱 MySql
-- 💻 Knex
-- ⚛ Laravel
-
-## Examples of Work
-
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+<!-- ## Examples of Work -->
+<!-- 
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" > -->
