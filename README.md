@@ -7,8 +7,8 @@ Software Engineer | Back-End Developer
 * 🌍  I'm based in Iraq. Erbil
 * 🖥️  See my portfolio at [My Portfolio](https://basit-dev.vercel.app/)
 * ✉️  You can contact me at [abdullbasit99salah@gmail.com](mailto:abdullbasit99salah@gmail.com)
-* 🚀  I'm currently working on [School Management System](http://laravel-employee-attendance.herokuapp.com/)
-* 🧠  I'm learning laravel and livewire
+#* 🚀  I'm currently working on [School Management System](http://laravel-employee-attendance.herokuapp.com/)
+* 🧠  I'm learning laravel and react native
 * 🤝  I'm open to collaborating on any laravel project
 * ⚡  I'm secretly Spiderman... but don't tell anyone
 
